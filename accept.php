@@ -34,7 +34,7 @@
 <head>
 <link rel="icon" type="image/x-icon" href="../iii/images/favicons.png" />
 <h1 class="intro">Investian</h1>
-<img src="../iii/images/favicons.png" class="in">
+<img src="../iii/images/favicons.png" class="in" >
 </head>
 <style>
     	img.in{
