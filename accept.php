@@ -1,7 +1,7 @@
 <?php
     include('functions.php');
     session_start(); 
-   
+   //this is the changes I made in the accept.php
     
     $id = "0";
 
